@@ -1,4 +1,6 @@
 ﻿# Cinema-app
+ ## Project description <a name="project-description"></a>
+Cinema web application is a simple imitation of cinema, with user authorization and authentication. Here we have user, ordering ticket to movie session with cinema hall mentioned.
 ## Table of contents
 1. [Project Description](#project-description)
 2. [Available Functionality](#available-functionality)
@@ -6,8 +8,6 @@
 4. [Roles Endpoints](#roles-endpoints)
 5. [Technologies](#technologies)
 6. [How to Install the App](#how-to-install-the-app)
- ## Project description <a name="project-description"></a>
-Cinema web application is a simple imitation of cinema, with user authorization and authentication. Here we have user, ordering ticket to movie session with cinema hall mentioned.
 ## Available functionality <a name="available-functionality"></a>
 * User LogIn/LogOut
 * create, update delete cinema-hall
